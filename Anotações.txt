@@ -1,0 +1,22 @@
+PODTEKMM
+Comunicação tornar a informação comun entre o emissor e o receptor.
+
+Elementos da comunicação:
+
+Emissor - quem envia
+Receptor -  quem recebe
+Mensagem - informação
+Canal -  é o meio
+
+Cap.02
+Tipos de linguagem:
+Coloquial:
+Culta:
+Gíria:
+
+Cap.03
+Pg.:23
+
+Material WEB
+
+https://tvbrasil.ebc.com.br/midia-em-foco/2018/07/direitos-autorais
